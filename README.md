@@ -1,6 +1,8 @@
 # lesson-3
 # Домашнее задание к уроку 3
 
+https://kseniya-lepilova.github.io/lesson-3/
+
 ### Верстаем макет.
 
 ***
