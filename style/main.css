@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0 auto;
 }
+
 .wrap {
     width: 100%;
     text-align: center;
@@ -14,7 +15,7 @@ header {
     padding: 107px 0 40px 0;
 }
 
-h1 {
+.headline {
     font-family: 'Raleway', sans-serif;
     font-size: 36px;
     text-transform: uppercase;
@@ -137,7 +138,7 @@ h3 {
 }
 
 .align {
-    vertical-align:sub;
+    vertical-align: sub;
     font-size: 12px;
     margin: 0 auto 15px auto;
 }
